@@ -45,7 +45,7 @@ Mnemox updates itself. A new version downloads in the background, and Mnemox ask
 
 1. Download **Mnemox-Setup.exe**.
 2. Open it from your Downloads folder.
-3. The beta isn't signed yet, so Windows may show "Windows protected your PC": click **More info**, then **Run anyway**.
+3. The beta isn't signed yet, so you may see two warnings. If Edge says the file "**isn't commonly downloaded**", click **⋯** next to it, then **Keep** → **Show more** → **Keep anyway**. If Windows then shows "**Windows protected your PC**", click **More info**, then **Run anyway**.
 4. Mnemox installs just for you, with no admin rights needed, and opens on its own. It adds itself to the Start menu and the desktop.
 
 Mnemox updates itself, as on a Mac. To check now, go to **Settings → About → Check for updates**. To remove it, use **Settings → Apps → Installed apps** in Windows.
