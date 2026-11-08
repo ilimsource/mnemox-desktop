@@ -12,6 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/ilimsource/mnemox-desktop/releases/latest/download/Mnemox.dmg"><strong>Download for Mac</strong></a> ·
+  <a href="https://github.com/ilimsource/mnemox-desktop/releases/latest/download/Mnemox-Setup.exe"><strong>Windows (beta)</strong></a> ·
   <a href="https://apps.apple.com/us/app/mnemox/id6824320167">iPhone</a> ·
   <a href="https://play.google.com/store/apps/details?id=so.mnemox.app">Android</a> ·
   <a href="https://mnemox.so">Open in your browser</a>
@@ -24,6 +25,7 @@
 | Platform | Where | Requirements |
 |---|---|---|
 | **Mac** | [Download Mnemox.dmg](https://github.com/ilimsource/mnemox-desktop/releases/latest/download/Mnemox.dmg) | macOS 13 Ventura or later, Apple silicon or Intel |
+| **Windows** (beta) | [Download Mnemox-Setup.exe](https://github.com/ilimsource/mnemox-desktop/releases/latest/download/Mnemox-Setup.exe) | Windows 10 or 11, Intel/AMD or ARM |
 | **iPhone** | [App Store](https://apps.apple.com/us/app/mnemox/id6824320167) | iOS 15 or later |
 | **Android** | [Google Play](https://play.google.com/store/apps/details?id=so.mnemox.app) | |
 | **Web** | [mnemox.so](https://mnemox.so) | Any modern browser |
@@ -39,11 +41,20 @@ One account works everywhere, and your notes follow you between devices.
 
 Mnemox updates itself. A new version downloads in the background, and Mnemox asks to restart when it is ready. To check now, choose **Mnemox → Check for Updates…**. On an older Mac, [mnemox.so](https://mnemox.so) in your browser does everything the app does.
 
+### Installing on Windows (beta)
+
+1. Download **Mnemox-Setup.exe**.
+2. Open it from your Downloads folder.
+3. The beta isn't signed yet, so Windows may show "Windows protected your PC": click **More info**, then **Run anyway**.
+4. Mnemox installs just for you, with no admin rights needed, and opens on its own. It adds itself to the Start menu and the desktop.
+
+Mnemox updates itself, as on a Mac. To check now, go to **Settings → About → Check for updates**. To remove it, use **Settings → Apps → Installed apps** in Windows.
+
 ## What it does
 
 **Write anywhere, lose nothing**
 - Every keystroke is saved on your device first, so you can keep writing on a train or in a meeting with no signal.
-- Notes sync across your Mac, phone and browser on their own. There is no sync button.
+- Notes sync across your computer, phone and browser on their own. There is no sync button.
 - If you edit the same note in two places, even when both were offline, the changes merge instead of asking which one to keep.
 
 **Write the way you think**
@@ -81,6 +92,6 @@ See [mnemox.so/pricing](https://mnemox.so/pricing) for the full comparison.
 
 ## About this repository
 
-This repository publishes the **Mac app's releases**: the download above and the updates the app installs on its own. The app's source code is not public. For questions or problems, please email [support@mnemox.so](mailto:support@mnemox.so).
+This repository publishes the **Mac and Windows apps' releases**: the downloads above and the updates the apps install on their own. The app's source code is not public. For questions or problems, please email [support@mnemox.so](mailto:support@mnemox.so).
 
 Mnemox is made by [ilimcraft LLC](https://ilimcraft.com).
